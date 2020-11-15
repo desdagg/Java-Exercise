@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.des.crudTest</groupId>
 	<artifactId>crudTest</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>1.0.0-Final</version>
 	<name>crudTest</name>
 	<description>Demo project for Spring Boot</description>
 
@@ -50,6 +50,11 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.13.1</version>
 		</dependency>
 	</dependencies>
 
